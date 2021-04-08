@@ -18,7 +18,7 @@
 
 这是我的照片
 
-![一张照片](../头像.jpeg)
+![一张照片](./头像.jpeg)
 
 ```javascript
 console.log('hello')
